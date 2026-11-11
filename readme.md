@@ -195,7 +195,8 @@ By completing this project, students will learn:
 ## 👨‍💻 Author
 
 **Prachi**  
-B.Tech CSE  
+BCA Data Science
+UID - 26BCD10321
 Chandigarh University
 
 ## 📄 License
